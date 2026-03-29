@@ -67,5 +67,4 @@ logs/
 # Project-specific
 # =========================
 project_details.md
-data/
 fix_qdrant.py
