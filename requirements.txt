@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+pymupdf==1.25.5
+pydantic-settings==2.8.1
+qdrant-client==1.17.1
+httpx==0.28.1
+python-dotenv==1.1.0
